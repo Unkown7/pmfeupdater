@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<update xmlns="http://ns.riaspace.com/air/framework/update/description/1.1">
+<dmg>
+<versionNumber>001.030.002</versionNumber>
+<versionLabel>1.0.3.2 Beta</versionLabel>
+<url>https://files.mcleodgaming.com/ssf2/downloads/4dac3775/SSF2BetaSetupMac.v1.0.3.2.air</url>
+<description>
+<![CDATA[
+
+Patch v1.2 Notes:
+--------------------
+* Updated Classic Mode Bugs
+* Fixed Sky Zone's Loading Bug
+* Fixed bugs for Event Matches
+* Online now has sound effects  for join requests, declines, and disconnections
+* Other misc. balancing tweaks
+
+Content:
+
+* Delphino's Secret Added
+* 7 Characters Added
+* Added Crystal Smash to Stadium mode
+* Sky Zone Revamped
+* Smashville Revamped
+* Other and More Stage Tweaks
+
+Engine:
+
+* Auto Updater for PM:FE
+* Characters now go into landing animation when melee airdodging
+* Engine Knockback Increased by 1 unit
+* Replays are now named "PMFE Replay" instead of the default "Untitled Replay"
+* Miscellaneous bug fixes and balancing
+]]>
+</description>
+</dmg>
+<exe>
+<versionNumber>001.030.002</versionNumber>
+<versionLabel>1.0.3.2 Beta</versionLabel>
+<url>https://files.mcleodgaming.com/ssf2/downloads/4dac3775/SSF2BetaSetup.v1.0.3.2.exe</url>
+<description>
+<![CDATA[
+
+Patch v1.2 Notes:
+--------------------
+* Updated Classic Mode Bugs
+* Fixed Sky Zone's Loading Bug
+* Fixed bugs for Event Matches
+* Online now has sound effects  for join requests, declines, and disconnections
+* Other misc. balancing tweaks
+
+Content:
+
+* Delphino's Secret Added
+* 7 Characters Added
+* Added Crystal Smash to Stadium mode
+* Sky Zone Revamped
+* Smashville Revamped
+* Other and More Stage Tweaks
+
+Engine:
+
+* Auto Updater for PM:FE
+* Characters now go into landing animation when melee airdodging
+* Engine Knockback Increased by 1 unit
+* Replays are now named "PMFE Replay" instead of the default "Untitled Replay"
+* Miscellaneous bug fixes and balancing
+]]>
+</description>
+</exe>
+</update>
